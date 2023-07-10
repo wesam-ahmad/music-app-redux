@@ -1,0 +1,53 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@mantine/carousel": "^6.0.16",
+    "@mantine/core": "^6.0.16",
+    "@mantine/dates": "^6.0.16",
+    "@mantine/dropzone": "^6.0.16",
+    "@mantine/form": "^6.0.16",
+    "@mantine/hooks": "^6.0.16",
+    "@mantine/modals": "^6.0.16",
+    "@mantine/notifications": "^6.0.16",
+    "@mantine/nprogress": "^6.0.16",
+    "@mantine/prism": "^6.0.16",
+    "@mantine/spotlight": "^6.0.16",
+    "@mantine/tiptap": "^6.0.16",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@tabler/icons-react": "^2.24.0",
+    "@tiptap/extension-link": "^2.0.3",
+    "@tiptap/react": "^2.0.3",
+    "@tiptap/starter-kit": "^2.0.3",
+    "@trendyol-js/react-carousel": "^3.0.2",
+    "axios": "^1.4.0",
+    "bad-words": "^3.0.4",
+    "dayjs": "^1.11.9",
+    "embla-carousel-react": "^7.1.0",
+    "rc-slider": "^10.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.14.1",
+    "react-slick": "^0.29.0",
+    "redux-thunk": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react-swc": "^3.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.2.0"
+  }
+}
